@@ -1,47 +1,51 @@
 import React from "react";
+import Logo from "../components/Logo";
+import Navigation from "../components/Navigation";
 
 const About = () => {
   return (
     <div>
-      <h1> A propos</h1>
+      <Logo />
+      <Navigation />
+      <h1>A propos</h1>
       <br />
       <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure assumenda
-        repellat maxime quia, facere accusamus amet fugit consectetur
-        reprehenderit architecto debitis dignissimos laboriosam dicta, mollitia
-        ea cum. Error modi, molestias sit veritatis aliquid eligendi labore,
-        quis repudiandae placeat reiciendis ea ipsam exercitationem recusandae,
-        expedita provident vero laborum harum dolorum deleniti! Dignissimos
-        corporis eligendi dolore eveniet rerum quo commodi dolorum, sequi, culpa
-        nulla soluta ipsa voluptas ea voluptate optio recusandae reprehenderit
-        maxime ipsum rem totam dicta! Tempore eius porro amet facilis quisquam
-        adipisci deserunt reprehenderit dolorem odit. Optio nulla est eligendi,
-        atque eaque enim ad consequuntur hic rem aut necessitatibus alias.
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium
+        quia culpa beatae deleniti dignissimos veniam debitis veritatis
+        temporibus, repellendus nihil ea omnis cum hic praesentium quisquam ad
+        fugiat! Labore ipsa perspiciatis, aut esse odio repellendus distinctio
+        doloremque sint provident doloribus blanditiis, quaerat rerum. Facere
+        harum in ratione eos, minima blanditiis dicta ad minus quos temporibus
+        adipisci excepturi ab exercitationem iure esse enim, natus repellat
+        error reiciendis iusto. Dicta quibusdam, ipsum enim doloribus veritatis
+        officia voluptas, similique in veniam sed possimus? Magnam voluptates
+        reiciendis, non ipsum, fugiat minus quasi architecto deleniti voluptate
+        quis officia corporis natus veniam dicta excepturi atque commodi?
       </p>
       <br />
       <p>
-        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas dolor
-        quis quo sapiente est perspiciatis, voluptatum ea praesentium. Tempore a
-        quia cumque amet ea. Vero tempora ex ipsum, dolore consequuntur
-        temporibus dicta. Voluptas atque facere blanditiis sed quis explicabo
-        velit dolorem culpa nulla voluptatibus natus ipsum saepe illo vel et,
-        quo numquam ipsam consequuntur eveniet. Praesentium, rem! Officia soluta
-        quam delectus unde quaerat? Excepturi nam voluptate sunt itaque
-        asperiores deserunt laborum qui sint debitis iste rem animi consequatur
-        eveniet possimus, iusto temporibus beatae, maxime, quam perspiciatis
-        tenetur perferendis consequuntur dicta nesciunt. Quod nostrum, minima
-        rerum illo ut, maiores repellendus debitis maxime suscipit minus quae
-        fugiat explicabo animi. Illum possimus quisquam, deserunt ullam
-        perspiciatis tempore dolor non neque tenetur, incidunt dicta, ut modi
-        quia aperiam porro quod repellat pariatur labore iusto commodi itaque
-        expedita similique. Et eos beatae nemo obcaecati eveniet aut consectetur
-        quas. Neque quos, dolorum iste explicabo obcaecati laborum vero
-        sapiente? Natus dolor animi nisi in adipisci, nostrum quos illo vitae
-        laudantium porro, quod quibusdam voluptatibus ad debitis obcaecati
-        cupiditate rerum dignissimos consequuntur ex accusamus corporis, unde
-        iusto. Voluptate beatae facilis nostrum modi ratione maxime dolorum,
-        itaque iure, deserunt aspernatur doloribus esse vel omnis, perspiciatis
-        alias obcaecati quis at!
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure dicta
+        accusantium et natus recusandae nostrum, aperiam assumenda vitae enim
+        explicabo atque quod dolorem asperiores placeat officia deserunt earum
+        corporis ea repellat harum ab odio qui! Quam ad ducimus, dolorem
+        exercitationem non et aliquam labore magni enim doloribus qui accusamus
+        assumenda est officiis, quisquam aspernatur suscipit corporis dolorum a
+        dicta cupiditate incidunt laborum. Debitis corporis aliquam consectetur
+        dolores aspernatur minus repellat explicabo iste nisi facilis, aperiam
+        deserunt ipsa? Ipsa minus numquam a, nemo adipisci blanditiis
+        consequatur cumque earum magnam iste esse. Eveniet praesentium qui
+        deleniti, assumenda minima similique voluptas culpa quidem quibusdam
+        illum consequuntur molestiae officiis laudantium? Voluptatem ea dolor
+        veniam ab nemo suscipit natus odit laudantium aliquam, nulla corporis
+        magnam assumenda corrupti, quam totam, asperiores similique labore.
+        Quaerat magnam aut voluptatum dicta autem, esse cupiditate ipsam
+        blanditiis repudiandae rem. Provident dolor, inventore quisquam culpa
+        voluptates officiis incidunt odio, in natus dolorem accusamus aspernatur
+        eveniet illo magni a maiores repellendus fuga aut dolorum explicabo
+        cumque est accusantium tempora. Rem veniam ad facere placeat ab qui
+        similique esse unde eius sapiente eum corrupti harum nesciunt,
+        temporibus nam dolore quos! Id voluptatibus ipsam soluta atque iure
+        expedita facere alias. Provident assumenda est fugit.
       </p>
     </div>
   );
